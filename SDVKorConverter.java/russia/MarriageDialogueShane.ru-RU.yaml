@@ -1,0 +1,85 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Rainy_Day_0: "ܦןڮ Ѕʦ ܋пʙ ȣ ٻ܋˪ ܞ ޓȷ ֽ ܕۺ Ĥ٢.#$e#һο ĥ݁˼ޕ ٍى... ܙןʙ ܋݃ ৔ܙմ ˴ѝ̞ۺ ˮ Ӈ ֽ˪ ܕʙ ȣ܋ʦƫ." #!String
+    Rainy_Day_1: "ڊƟ ڮմ Օĳ ˽ ܋৳ο Օ܋ ݘ ԇޕ Ĭ ďى.$6" #!String
+    Rainy_Day_2: "Here... take this.[346 174 303 305 215]#$e#I bought some of those a while ago and they're almost expired..." #!String
+    Rainy_Day_3: "۷ٱٱ... ڡʚ۹ ىјĬ˪ ঠƟ ׭ٱ." #!String
+    Rainy_Day_4: "@, ڡʚ۹ ѧĀ ݘ ˪ڮݶƫ?... ىʦи Ň֚ Ȱܠ܋ȣ ܙңЀƫ?" #!String
+    Rainy_Night_0: "ਔۼ... ڡʚ̰Ά ȼ˴ ঘܙĀ УŌ ײɐ.#$e#ٱͅ ՐΊ̞۹ ڡӷڂ ɏٱմ ˚ۗ УޓЇ, ȣঢ࣮ Ƀј ڡΒ Ĩβ. ƔϽŌ Ȧ Ɣ ޗࠍĤϽʙ שć܋ ݞĤ̜.$h" #!String
+    patio_Shane: "߶Ͻʙ ĦČ঩.$8" #!String
+    Rainy_Night_1: "৳̄ĤϽʙ Ӽ ֙Ͻϵ ̝Ō ܕܙʦ ʰϴ ר˂... ʰϴ փŇڂ ʰəڣ Ɵӛ܋ ̚ʙŷ." #!String
+    Rainy_Night_2: "Ї٣... ȣঢ࣬ ҆ޓĀ ܕٽ۷и ڡʚ ڽ࠻রۺޓ˪...ىȽ, ˻ٱ." #!String
+    Rainy_Night_3: "Ȧ ۍݼ࠿ঢ Ȩ܋ Ѝڂ ̞ޓЇ, ʶ̞܋ ݓƚ ĥ݁˺." #!String
+    Rainy_Night_4: "؜ىى-৳̃̄... ̝Ō ܕܙʦ р܋ Ѕϲŷ.$6" #!String
+    Indoor_Day_0: "۷ٱ... ĀȖ ՗܋ ਕҖ јցږড়Ā ˽ Ĭď۹ Ɵӛ܋ ̞ٱ...܋঩ঠĹٱ?" #!String
+    Indoor_Day_1: "ܙ, ܋Ĥ ҋى... ȣ ৔ܙ УƟڄ Ƀј Јىմ. [195 215 206]#$e#Sorry if it's squishy." #!String
+    Indoor_Day_2: "٣֚঩ݽ... ȴĀ ݴ۷и, ȴ ԭĀϘʙ ʶ̞ У܎ ڢֽֽ Ĥ϶۷οȣ Ժβݽ." #!String
+    Indoor_Day_3: "*߅*... ਛ, Ƀ ঘܙ Уٽޓ.$6" #!String
+    Indoor_Day_4: "ȴĀ Њۺ һο ً ঠŌ, ĀȖ ٳޣى Ӄ܎ ̺Ā ܕٱ˪... Ƀڮ থǍ ণ ֽ ܕٱմ ʰ঱܋٢. Ȧ ঱ۏى٢.$6" #!String
+    Indoor_Night_0: "Еݳ ݓƚЇ ˌ ЅרŌ ܞĳ." #!String
+    Indoor_Night_1: "Ї٣... ƔΠʦƫ... ਍, Ɣɂ ܞȣĀˏ רܼۺ ̓ڤϽŌ ܕٽٱ, ˂ড ˂ॶळڂմ ƔϽ̚Ӈ ոֽڕۺ ̺ Њ٢.$6#$b#ޓƚ܆ Ȧ ȣ܋̞Ō ٣঩ԇݐޓЇ..." #!String
+    Indoor_Night_2: "۷ĥ... *Ǵϲϳ*... ҕĀ ԐԐ঩... ۍێ... ݓܙ ʰی˪ ֙ןϵ Ƀј Ј܋ Уٽٱ." #!String
+    Indoor_Night_3: "۷... ࣅĀ 15 օࡘЇ ˌ ࢾŌ ޓƚӃʰ н ҕЇ ˌ ͛͛ঠи ݞۺ࣮˚...#$e#ޓƚ ȴ пץ Ɣ˂ο˪ ݞʰŌ? ɐ Ɣ΢ ܾ۹ ˪јޓ ܋঩Ā ً ˺..." #!String
+    Indoor_Night_4: "ঠϘ ݮ܎ ࣬ΪӼЇ ӎˌʦ ʰϽĀ әմޕ ҊݴࠌΤ ˻ٱ. ȴ܎ƫޕ ࣬ΪӼȣ Ӄиմ ݘ בٱ٢ĹʙĨ." #!String
+    Outdoor_0: "ٱ݃ ܠۺ ܞ ч ܣ۷ʦ Ћ۹ ŗƟȣ ЅרŌ ਪȴ٢ޓ.#$e#ٱ̥ʰ ظ ਪ܋ȽŌ? ঽঽ... َиմ.$h" #!String
+    Outdoor_1: "ĀȖ ȣ ܙת܋ Ɣɂ ѝЇ ܛͳ ̞ٱܕʙ ŌƧ˗܋Άʙ զā܋ ̞ٱ.#$e#Ѧ...՜śٻٱ... ՗܋Έ ˂ࠕ Ѩƫ?$h" #!String
+    Outdoor_2: "Ɣɂ ĀȖ ̚ʙ զā܍˚... Ȧ Ǫ ţߵ۹ ՗ۺ ՕŌ ܕʙ Ĭ ďى.$6" #!String
+    Outdoor_3: "۷ىى... Ō࠸ ۅϽϵ Ƀј Уٽˌʦ ৅Ā әٽٱ.$s" #!String
+    Outdoor_4: "ڊ, @. ɐĀ ٙƟࠌΤ ܙŌ ܕƣΒ Фܹ ܎ٱȣմ ɬܤ ݳҺۺ Փ߾রٱ. ʰ ţߵى Ӄڊ." #!String
+    OneKid_0: "܋՜ঢ Ɵӛ܋٢. ٱЀ ̼ ٙ ̰ۦ ܼ˂ ً ࣅۍĹʰŌ Мփরٽʙ˚. ȣঢ࣬ ѧ ܎܋ ܎ٱȦ Ĥ٢?$6" #!String
+    OneKid_1: "%kid1 ঢ࣬ ʵĞۺ ܛͳ ݳܙŵ... सस Уڊմ ࣅĀ ܙΆ٢ޓ!" #!String
+    OneKid_3: "षष ֕܍, ӃŌ̚Ђʦʰ...$6#$e#۷... ȣ܋ϵ У۷ʦ ىܦĒƔĀ ȣڡɐ." #!String
+    TwoKids_0: "ҧ؆ ̆ ʰ ঘܙ ॎ঒ רϽٶο ґ Уڕٱ. ܠר˴ً۹ ţߵۺ Ĥ٢." #!String
+    TwoKids_1: "֝ޔਦ Њ঩մ... ٙĀ ̆܋и ܋݃ ࠿ӛ঩." #!String
+    TwoKids_2: "৳ۍ... %kid2 ܋(Ā) ঠϘݛ܎ Őࡘϵ ؇ڕٱ. ȣϵ ʷىĀȣ..." #!String
+    TwoKids_3: "*৳*... ܋ ̃ ǚМ܋̞ۺ ঢ Ňܼ ˴ً ݓܙ ࡮঒ڂ Ӄȴңι۷и...#$e#ɬʺ܋ٽٱ.$h" #!String
+    Good_0: "*ࣄ*... *ࣄࣄ*... ۷ۼ... ˂ࠕ јס ঳ֽϵ ؍ƣΒ ܋Ωĳ ݞ۹ ঳܋ ȣޓ? ڡ ̚ ॗॎοʦΆŌ?$6" #!String
+    Good_1: "ܕܜى, Ɇ ȣӃʰ ৽ك ܞ զńٱ.$h" #!String
+    Good_2: "֕܍'܋Άʙ ܋϶۹ 'ۅ҆܆ ոѝ'܋Έ ͹܋Β... ەƟרɐ." #!String
+    Good_3: "ڡʚ ȴ Ɵӛ۹ ࠯Ō٢... ٱ݃ ŅƟڂմ ࣢ɇΠ̞܋ ՜˂ळۺ ߪٱ ʄΠңιĤ̜.$h" #!String
+    Good_4: "ܹƟ, ȴĀ ݘ ٳޣى Ӄ܋и, Ɣɂ јר঩ңβ. Ȧ ۙΒ ĀȖ ƔΠܜى. Ɩ˚ ܼ˂ Ƀ ̺ћڂ Ɣ΢Ħ ىȽ... َޓ?" #!String
+    Good_5: "ى... ݓܙ ̰ۦڂմ ܎ঠʙ ĬӃʰ ɬܤڂ Րʙ ĳ ৽ك ݞى. Ȗߪঢ Ŗ܋ٽޓ.$h#$e#Ƀј ˂ɮŌ ۆরʰŌ? ޓƚ ̞۹ Ħ ۆ ࠹ڂ˪ ч Ǔ..." #!String
+    Good_6: "܋٢... ܋΢ĳ ҆ο ܍զ܋ޓ. ߾ܒ ̰ۦ ޗ ছۅ˪ ٻŌ, ܹɚڄ ࣢ɇΠދ ŅƟĀ ܕŌ, ȼܤŌʙ רۙঢ Еݳο Ā̛ঠܜى.$h" #!String
+    Good_8: "ڡʚ۹ ܎ণ Ɵӛ܋ ىʦ٢. ࣯ΪӼܻ܋ȣ ࢈ Ӈƫ." #!String
+    Good_9: "ঽ... ڷ ؇֙ϵ ޛŌ ܕȽŌ? ޕޠ Ɵٲ чঠʙ Ĥ٢, ۿ? *әȏ*$h" #!String
+    Neutral_0: "ٱ, јס ܎܋٢? ѹً, ޓƚ۹ ݘ ҆ԇմ." #!String
+    Neutral_2: "ɐ ܋٢Ɵʙ Ґڂ ď܋ ܞ̺ ঩ݳʙĳ ٱ̺? Ȧ ޓƚ ݘ ҆ԇ..." #!String
+    Neutral_3: "ݓܙ Ѕडڂմ ܎ঠʙ Ħ ࠯ي܋ٽޓЇ, ƔΒ˪ ȴ ܍Ă śŇϵ ƔȣЅ ۮޓר࢈ݳơ রޓ." #!String
+    Neutral_4: "Ѧ, պĤޓ ঩ ɮ۷ΆŌ? َٕٱ...ٳ݅Āʙ ঠޓ Ѧ..." #!String
+    Neutral_5: "ۍϽ ĀŇʙ ţߵى? ͚ ݓܙ Ѕडڂմ ܎ঠƟʙ ׭ٱ." #!String
+    Neutral_6: "Ѕۺڂ Āմ ࡚ŵ̞ ӃŌ ײ۷и, Ѝ˂ο ঩. ࣬ΪӼΎ ЕݳЇ ܕ۷и ʰϴ Ħ ছۅٻʰŌ." #!String
+    Neutral_8: "݅ܤ... ܋Ĥ ࡘۗΆ, ܹĤ ࡘۗΆ, ڊƟ ظٱΆ, ܹƟ ʲىΆ, هٱΆ, ґ঩Ά, ࡞˂ ݁Ͻ঩Ά... Ĥ ߷, Щޕ ܍զ܋ŷ." #!String
+    Bad_5: "ܹƟ, ȣ ܠƮ ৔ܙ ݘ ܕܙ. ȣĀմ ʦ ণ ܎܋ȣ ঠޓ?" #!String
+    Bad_6: "˂ࠕ ѦĀ ћ݃٢? ЅʦЅɂ ܛ֙Ͻϵ ঠʙŷ. ܹϽ ݘ Ā.$a" #!String
+    Bad_7: "ɬܤ܋Άʦ. Ȧ ڊƟմ ˂ࠕ Ѩ ঠŌ ܕʙ Ĥ٢?$s" #!String
+    Bad_8: "ƔΒ... *৶޸* ... ƔΒ, ܙƟ. ʾת Њ܋ Бى... *৶޸*" #!String
+    funLeave_Shane: "ڡʚ۹ Ѕۺڂ ݘ ʰə ڤĳ, ƔΒ˪ ˼ޓ?" #!String
+    funReturn_Shane: "̴܋ Ј܋ ਙβմ ѹً... Ǫ ơ ĤϽϵ Ĩٽٱ... ৳ۍ, ȣ˪ ܋݃ ঢ ѝ ċŷ.$6" #!String
+    spring_1: "۷ٱٱ... ̃ऀ܋ Ƀј ׮঩. ٱ݉ Ґ ˂ࠕ ٶЅȣ Ѕת Ĥޓ?" #!String
+    spring_12: "Ȧ ʵĞ ࠹݃Ā ݃܎ ݞى... َܜى, ȴĀ ʶڂ śঢ ܎܋Άи ৞ܤঠʙĤ.$h" #!String
+    spring_23: "ىى, ƔΙޓ. ȴ܎ ӈǤ ј˪১ŵȣ. Ѧ, ɐĀ ݞʰи ȣ˪ ݞى." #!String
+    summer_1: "Дɛ ܋ Ňܼ܋ ˼и ڎ˂ שѝ̞ۺ Ӄʙĳ ܦ҂ٱ. ҘϽ ܻࠕڂ ڣč שѝ̞܋ ܙΆȣܜى." #!String
+    summer_10: "ȴ܎ Ϙى ࠹݃ƫޓʙ Żٱ̃βŌ. ۦܤۺ ӼۗɲʰĀ ȴ܎ ̶̰ঢ ֽ঒ϵ Ɣϸޫ Ѕ֌ңβ٢ޓ.$h" #!String
+    summer_27: "ڤ Āۺ۹ Ѩ ণ Ĥ٢? Ȧ ڮ܍ۺ Ѕרиմ ʰ܋ٱडϵ ঩ӃβŌ." #!String
+    fall_1: "ਛ... ֢ɛ১ ی۷ο ৒҇ Еݳȣ н ҇ן Ր̆ƫ...$6" #!String
+    fall_15: "ڡʚ۹ Ѕʦϵ ˪ۍΠ Ā٢Ĺٱ. ȴ܎܋ ࠹݃ܜى. Ɇ Ɣɂ ॼ בŌ ܕٱ.$6" #!String
+    fall_17: "ܾܾ ʛٱĀʙ ĳ ʗǓ݋... ֝ޔਦ Ɵӛ܋ ݞޕ ٍى." #!String
+    winter_1: "ڤ Ļې Ň২۹ Ѧ٢? Ȧ Ɣɂ ࣯ΪӼܻ܋ȣ ݶ߻ ӃʰĀ ޗϽи ޚ ݳҺ܋ȣ ٱעΨ˂βŌ." #!String
+    winter_28: "Ѧ, ͚ ঢ ঩Ā ċŷ... ٶŹ۹ ݘ ˌ ʛĹޓЇ, һ ܎ ٻĹޓ.$6" #!String
+

@@ -1,0 +1,85 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Rainy_Day_0: "재스와 마니 이모는 나 없이도 잘 지낼 수 있을 거야.#$e#별로 걱정되진 않아... 자스는 이제 혼자서 동물들을 돌 볼 수도 있는 나이니까." #!String
+    Rainy_Day_1: "여기 와서 살게 된 이후로 살이 좀 빠진 것 같아.$6" #!String
+    Rainy_Day_2: "Here... take this.[346 174 303 305 215]#$e#I bought some of those a while ago and they're almost expired..." #!String
+    Rainy_Day_3: "으어어... 오늘은 아무것도 하기 싫어." #!String
+    Rainy_Day_4: "@, 오늘은 뭔가 좀 도와줄까?... 아니면 계속 낮잠이나 자버릴까?" #!String
+    Rainy_Night_0: "흐음... 오늘따라 냉동 피자가 먹고 싶네.#$e#어떤 사람들은 오븐에 넣어서 데워 먹지만, 나한텐 너무 오래 걸려. 그리고 난 그 질척거리는 식감이 좋거든.$h" #!String
+    patio_Shane: "찰리는 건강해.$8" #!String
+    Rainy_Night_1: "후둑거리는 비 소리를 듣고 있자니 다른 시대... 다른 세계에 다녀온 기분이 드는군." #!String
+    Rainy_Night_2: "만약... 나한테 바지가 있었으면 오늘 외출했을지도...아냐, 됐어." #!String
+    Rainy_Night_3: "난 우중충한 날이 맘에 들지만, 닭들이 조금 걱정돼." #!String
+    Rainy_Night_4: "쏴아아-후두둑... 듣고 있자니 목이 마르군.$6" #!String
+    Indoor_Day_0: "으어... 가끔 삶이 흑백 무성영화가 된 것같은 기분이 들어...이해하겠어?" #!String
+    Indoor_Day_1: "자, 이거 받아... 나 혼자 먹기엔 너무 많아서. [195 215 206]#$e#Sorry if it's squishy." #!String
+    Indoor_Day_2: "약속해줘... 내가 죽으면, 내 뼛가루는 닭들 먹일 옥수수 거름으로나 뿌려줘." #!String
+    Indoor_Day_3: "*쪽*... 흠, 너 피자 먹었지.$6" #!String
+    Indoor_Day_4: "내가 말을 별로 안 하고, 가끔 언짢아 보일 때가 있어도... 너와 함께 할 수 있어서 다행이야. 난 행운아야.$6" #!String
+    Indoor_Night_0: "맥주 조금만 더 마시고 잘게." #!String
+    Indoor_Night_1: "만약... 그러니까... 휴, 그냥 잘나가던 시절을 떠올리고 있었어, 대학 대표팀에서 그리드볼 선수였을 때 말야.$6#$b#지금의 난 나이들고 약해빠졌지만..." #!String
+    Indoor_Night_2: "으걱... *꾸르륵*... 배가 빵빵해... 우욱... 조자 다용도 소스를 너무 많이 먹었어." #!String
+    Indoor_Night_3: "으... 키가 15 센치만 더 크고 지금보다 몇 배만 더 똑똑하면 좋을텐데...#$e#지금 내 모습 그대로도 좋다고? 네 그런 점은 도무지 이해가 안 돼..." #!String
+    Indoor_Night_4: "하루 죙일 테레비만 봤더니 다리가 부서진 반죽처럼 됐어. 내일까진 테레비나 보면서 좀 쉬어야겠는걸." #!String
+    Outdoor_0: "어제 잠을 잘 못 잤으니 맑은 공기나 마시고 힘내야지.#$e#어디다 쓸 힘이냐고? 헤헤... 알면서.$h" #!String
+    Outdoor_1: "가끔 나 자신이 그냥 물만 잔뜩 들어있는 고깃덩이라는 생각이 들어.#$e#뭐...상관없어... 삶이란 대체 뭘까?$h" #!String
+    Outdoor_2: "그냥 가끔 드는 생각인데... 난 꽤 괜찮은 삶을 살고 있는 것 같아.$6" #!String
+    Outdoor_3: "으아아... 고추 요리를 너무 먹었더니 혀가 부었어.$s" #!String
+    Outdoor_4: "여, @. 네가 애기처럼 자고 있길래 먼저 일어나서 농장 주변을 산책했어. 다 괜찮아 보여." #!String
+    OneKid_0: "이상한 기분이야. 어릴 땐 애 따위 절대 안 키우겠다고 맹세했었는데. 나한테 뭔 일이 일어난 거야?$6" #!String
+    OneKid_1: "%kid1 한테 달걀을 잔뜩 주자구... 팍팍 먹여서 키가 자라야지!" #!String
+    OneKid_3: "파파 셰인, 보고드립니다...$6#$e#으... 나이를 먹으니 아재개그가 나오네." #!String
+    TwoKids_0: "벌써 둘 다 피자 퍼프 시리얼로 밥 먹였어. 잠시동안은 괜찮을 거야." #!String
+    TwoKids_1: "솔직히 말해서... 애가 둘이면 이제 충분해." #!String
+    TwoKids_2: "후우... %kid2 이(가) 하루종일 골치를 썩였어. 나를 닮아가나..." #!String
+    TwoKids_3: "*후*... 이 두 꼬맹이들을 한 계절 동안 조자 캠프에 보내버렸으면...#$e#농담이었어.$h" #!String
+    Good_0: "*킁*... *킁킁*... 으음... 대체 무슨 향수를 썼길래 이렇게 좋은 향이 나지? 오 드 페퍼로니라고?$6" #!String
+    Good_1: "있잖아, 넌 나보다 훨씬 잘 생겼어.$h" #!String
+    Good_2: "셰인'이라는 이름은 '요바의 선물'이란 뜻이래... 웃기시네." #!String
+    Good_3: "오늘 내 기분은 최고야... 어제 경기에서 터널러들이 상대팀을 찍어 눌러버렸거든.$h" #!String
+    Good_4: "저기, 내가 좀 언짢아 보이면, 그냥 무시해버려. 난 원래 가끔 그러잖아. 근데 절대 너 때문에 그런건 아냐... 알지?" #!String
+    Good_5: "아... 조자 따위에서 일하는 것보다 농장에 사는 게 훨씬 좋아. 끔찍한 곳이었지.$h#$e#너무 대놓고 욕했다고? 지금 들은 건 욕 축에도 못 껴..." #!String
+    Good_6: "이야... 이런게 바로 인생이지. 책임 따위 질 필요도 없고, 저녁엔 터널러즈 경기가 있고, 냉장고는 시원한 맥주로 가득하잖아.$h" #!String
+    Good_8: "오늘은 일할 기분이 아니야. 텔레비전이나 켜 볼까." #!String
+    Good_9: "헤... 왜 썩소를 짓고 있냐고? 진짜 기억 못하는 거야, 응? *부끄*$h" #!String
+    Neutral_0: "어, 무슨 일이야? 미안, 지금은 좀 바빠서." #!String
+    Neutral_2: "네 이야기는 밤에 같이 잘때 해주는게 어때? 난 지금 좀 바빠..." #!String
+    Neutral_3: "조자 마트에서 일하는 건 최악이었지만, 그래도 내 인간 관계를 그나마 유지시켜주긴 했지." #!String
+    Neutral_4: "뭐, 설거지 해 놓으라고? 알았어...언젠가는 하지 뭐..." #!String
+    Neutral_5: "우리 가계는 괜찮아? 또 조자 마트에서 일하기는 싫어." #!String
+    Neutral_6: "마을에 가서 친구들 보고 싶으면, 맘대로 해. 테레비랑 맥주만 있으면 다른 건 필요없다고." #!String
+    Neutral_8: "젠장... 이거 치워라, 저거 치워라, 여기 쓸어라, 저기 닦아라, 씻어라, 밥해라, 침대 정리해라... 거 참, 멋진 인생이군." #!String
+    Bad_5: "저기, 나 잠깐 혼자 좀 있자. 나가서 니 할 일이나 하지?" #!String
+    Bad_6: "대체 뭐가 문제야? 마니마냥 잔소리를 하는군. 저리 좀 가.$a" #!String
+    Bad_7: "농장이라니. 난 여기서 대체 뭘 하고 있는 거야?$s" #!String
+    Bad_8: "그래... *훌쩍* ... 그래, 자기. 당신 말이 맞아... *훌쩍*" #!String
+    funLeave_Shane: "오늘은 마을에 좀 다녀 올게, 그래도 되지?" #!String
+    funReturn_Shane: "땀이 많이 흘려서 미안... 꽤 긴 거리를 걸었어... 후우, 나도 이제 한 물 갔군.$6" #!String
+    spring_1: "으어어... 두통이 너무 심해. 어젯 밤 대체 얼마나 마신 거지?" #!String
+    spring_12: "난 달걀 축제가 제일 좋아... 알잖아, 내가 닭에 관한 일이라면 환장하는거.$h" #!String
+    spring_23: "아아, 그랬지. 내일 봄꽃 무도회구나. 뭐, 네가 좋다면 나도 좋아." #!String
+    summer_1: "매년 이 계절이 되면 열대 식물들을 보는게 재밌어. 밸리 전체에 온갖 식물들이 자라나잖아." #!String
+    summer_10: "내일 루아 축제까지는 굶어두려고. 위장을 비워놨다가 내일 따땃한 수프를 그릇째 마셔버려야지.$h" #!String
+    summer_27: "올 가을은 뭘 할 거야? 난 와인을 마시면서 다이어트를 해보려고." #!String
+    fall_1: "흠... 송년회 용으로 호박 맥주나 몇 박스 사둘까...$6" #!String
+    fall_15: "오늘은 마니를 도우러 가야겠어. 내일이 축제잖아. 넌 그냥 푹 쉬고 있어.$6" #!String
+    fall_17: "점점 늙어가는 게 느껴져... 솔직히 기분이 좋진 않아." #!String
+    winter_1: "올 겨울 계획은 뭐야? 난 그냥 텔레비전이나 줄창 보다가 질리면 집 주변이나 어슬렁대려고." #!String
+    winter_28: "뭐, 또 한 해가 갔군... 얼굴은 좀 더 늙겠지만, 별 일 없겠지.$6" #!String
+
