@@ -1,0 +1,15 @@
+{
+  "name": "SDVKorConverter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "moment": "^2.18.1"
+  },
+  "repository": {
+    "private": true
+  },
+  "author": "gg",
+  "license": "MIT"
+}
